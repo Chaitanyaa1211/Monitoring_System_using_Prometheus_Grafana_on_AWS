@@ -165,16 +165,14 @@ Grafana Login:
 ---
 
 ## 📸 Screenshots
-
-*Add your screenshots here*
-
-```
-screenshots/
-├── grafana-dashboard.png
-├── prometheus-targets.png
-├── ec2-instance.png
-```
-
+Dashboard
+![image](screenshots/Grafana_dashboard.png)
+---
+EC2 Instance Running
+![image](screenshots/ec2_instance_running.png)
+---
+Containers_Running
+![image](screenshots/Docker_containers_running.png)
 ---
 
 ## ⚠️ Challenges & Solutions
